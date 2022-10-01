@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{16758eb15}##LastAppKey
+AppKeyBegin##{16b0d0f6d}##LastAppKey
 moregameBegin##{}##Lastmoregame
 SheireBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameS.RagdollWarrior}##Sheiregame
 UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameS.RagdollWarrior}##LastUrlRateUs
